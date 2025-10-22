@@ -14,6 +14,7 @@
                 double a = double.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
                 Console.Write("a = ");
                 double a = double.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
+                double b = double.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
 
                 Console.Write("b = ");
                 double b = double.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
